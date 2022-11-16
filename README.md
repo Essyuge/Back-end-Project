@@ -21,7 +21,7 @@ $ bundle exec rake server
 $ bundle exec rake db:create
 $ bundle exec rake db:create_migration
 $ bundle exec rake db:seed
-$ bundle exec shotgun
+
 ```
 
 
@@ -35,7 +35,7 @@ $ bundle exec shotgun
 
 ## Technologies Used
 ### Backend
-Ruby,Procfile,sinatra,sqlite3,PostgreSQL.
+Ruby,sinatra,sqlite3.
 
 ### Frontend
 HTML,CSS,JAVASCRIPT & REACT.
